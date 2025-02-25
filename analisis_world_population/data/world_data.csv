@@ -1,0 +1,216 @@
+;country_code;country_name;region_name;sub_region_name;income_group;year;population;population_million;rate_growth_pop;avg_years_of_schooling
+0;ABW;Aruba;Americas;Latin America and the Caribbean;Ingreso alto;2021;106537.0;0.1;-0.0;0.0
+1;AFG;Afganistán;Asia;Southern Asia;Países de ingreso bajo;2021;40099462.0;40.1;2.9;3.8
+2;AGO;Angola;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;34503774.0;34.5;3.2;5.1
+3;ALB;Albania;Europe;Southern Europe;Ingreso mediano alto;2021;2811666.0;2.8;-0.9;10.0
+4;AND;Andorra;Europe;Southern Europe;Ingreso alto;2021;79034.0;0.1;1.7;10.2
+5;ARE;Emiratos Árabes Unidos;Asia;Western Asia;Ingreso alto;2021;9365145.0;9.4;0.8;10.8
+6;ARG;Argentina;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;45808747.0;45.8;1.0;9.9
+7;ARM;Armenia;Asia;Western Asia;Ingreso mediano alto;2021;2790974.0;2.8;-0.5;11.7
+8;ASM;Samoa Americana;Oceania;Polynesia;Ingreso mediano alto;2021;45035.0;0.0;-2.5;0.0
+9;ATG;Antigua y Barbuda;Americas;Latin America and the Caribbean;Ingreso alto;2021;93219.0;0.1;0.6;9.2
+10;AUS;Australia;Oceania;Australia and New Zealand;Ingreso alto;2021;25688079.0;25.7;0.1;12.9
+11;AUT;Austria;Europe;Western Europe;Ingreso alto;2021;8955797.0;9.0;0.4;12.1
+12;AZE;Azerbaiyán;Asia;Western Asia;Ingreso mediano alto;2021;10137750.0;10.1;0.4;10.7
+13;BDI;Burundi;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;12551213.0;12.6;2.7;3.0
+14;BEL;Bélgica;Europe;Western Europe;Ingreso alto;2021;11592952.0;11.6;0.5;11.8
+15;BEN;Benin;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;12996895.0;13.0;2.8;3.6
+16;BFA;Burkina Faso;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;22100683.0;22.1;2.7;1.5
+17;BGD;Bangladesh;Asia;Southern Asia;Países de ingreso mediano bajo;2021;169356251.0;169.4;1.2;5.8
+18;BGR;Bulgaria;Europe;Eastern Europe;Ingreso mediano alto;2021;6877743.0;6.9;-0.8;11.8
+19;BHR;Bahrein;Asia;Western Asia;Ingreso alto;2021;1463265.0;1.5;-1.0;9.4
+20;BHS;Bahamas;Americas;Latin America and the Caribbean;Ingreso alto;2021;407906.0;0.4;0.4;11.1
+21;BIH;Bosnia y Herzegovina;Europe;Southern Europe;Ingreso mediano alto;2021;3270943.0;3.3;-1.4;9.7
+22;BLR;Belarús;Europe;Eastern Europe;Ingreso mediano alto;2021;9340314.0;9.3;-0.4;12.3
+23;BLZ;Belice;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;400031.0;0.4;1.3;10.5
+24;BMU;Bermudas;Americas;Northern America;Ingreso alto;2021;63867.0;0.1;-0.0;0.0
+25;BOL;Bolivia;Americas;Latin America and the Caribbean;Países de ingreso mediano bajo;2021;12079472.0;12.1;1.2;8.9
+26;BRA;Brasil;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;214326223.0;214.3;0.5;7.8
+27;BRB;Barbados;Americas;Latin America and the Caribbean;Ingreso alto;2021;281200.0;0.3;0.2;10.6
+28;BRN;Brunei Darussalam;Asia;South-eastern Asia;Ingreso alto;2021;445373.0;0.4;0.8;9.1
+29;BTN;Bhután;Asia;Southern Asia;Países de ingreso mediano bajo;2021;777486.0;0.8;0.6;3.1
+30;BWA;Botswana;Africa;Sub-Saharan Africa;Ingreso mediano alto;2021;2588423.0;2.6;1.7;9.3
+31;CAF;República Centroafricana;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;5457154.0;5.5;2.1;4.3
+32;CAN;Canadá;Americas;Northern America;Ingreso alto;2021;38246108.0;38.2;0.5;13.3
+33;CHE;Suiza;Europe;Western Europe;Ingreso alto;2021;8703405.0;8.7;0.8;13.4
+34;CHL;Chile;Americas;Latin America and the Caribbean;Ingreso alto;2021;19493184.0;19.5;1.0;10.3
+35;CHN;China;Asia;Eastern Asia;Ingreso mediano alto;2021;1412360000.0;1412.4;0.1;7.8
+36;CIV;Côte d'Ivoire;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;27478249.0;27.5;2.5;5.2
+37;CMR;Camerún;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;27198628.0;27.2;2.7;6.3
+38;COD;Congo, República Democrática del;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;95894118.0;95.9;3.3;6.8
+39;COG;Congo, República del;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;5835806.0;5.8;2.3;6.3
+40;COL;Colombia;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;51516562.0;51.5;1.2;8.3
+41;COM;Comoras;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;821625.0;0.8;1.9;4.8
+42;CPV;Cabo Verde;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;587925.0;0.6;0.9;6.1
+43;CRI;Costa Rica;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;5153957.0;5.2;0.6;8.8
+44;CUB;Cuba;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;11256372.0;11.3;-0.4;11.8
+45;CUW;Curacao;Americas;Latin America and the Caribbean;Ingreso alto;2021;152369.0;0.2;-1.7;0.0
+46;CYM;Islas Caimán;Americas;Latin America and the Caribbean;Ingreso alto;2021;68136.0;0.1;1.2;0.0
+47;CYP;Chipre;Asia;Western Asia;Ingreso alto;2021;1244188.0;1.2;0.5;12.1
+48;CZE;República Checa;Europe;Eastern Europe;Ingreso alto;2021;10505772.0;10.5;-1.8;12.7
+49;DEU;Alemania;Europe;Western Europe;Ingreso alto;2021;83196078.0;83.2;0.0;14.1
+50;DJI;Djibouti;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;1105557.0;1.1;1.4;4.1
+51;DMA;Dominica;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;72412.0;0.1;0.6;7.8
+52;DNK;Dinamarca;Europe;Northern Europe;Ingreso alto;2021;5856733.0;5.9;0.4;12.6
+53;DOM;República Dominicana;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;11117873.0;11.1;1.1;7.8
+54;DZA;Argelia;Africa;Northern Africa;Países de ingreso mediano bajo;2021;44177969.0;44.2;1.7;8.0
+55;ECU;Ecuador;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;17797737.0;17.8;1.2;8.7
+56;EGY;Egipto, República Árabe de;Africa;Northern Africa;Países de ingreso mediano bajo;2021;109262178.0;109.3;1.7;7.2
+57;ERI;Eritrea;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;3620312.0;3.6;1.8;4.0
+58;ESP;España;Europe;Southern Europe;Ingreso alto;2021;47415750.0;47.4;0.1;9.8
+59;EST;Estonia;Europe;Northern Europe;Ingreso alto;2021;1330932.0;1.3;0.1;12.7
+60;ETH;Etiopía;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;120283026.0;120.3;2.6;2.7
+61;FIN;Finlandia;Europe;Northern Europe;Ingreso alto;2021;5541017.0;5.5;0.2;12.4
+62;FJI;Fiji;Oceania;Melanesia;Ingreso mediano alto;2021;924610.0;0.9;0.5;10.8
+63;FRA;Francia;Europe;Western Europe;Ingreso alto;2021;67749632.0;67.7;0.3;11.5
+64;FRO;Islas Feroe;Europe;Northern Europe;Ingreso alto;2021;52889.0;0.1;0.9;0.0
+65;FSM;Micronesia (Estados Federados de);Oceania;Micronesia;Países de ingreso mediano bajo;2021;113131.0;0.1;0.9;8.0
+66;GAB;Gabón;Africa;Sub-Saharan Africa;Ingreso mediano alto;2021;2341179.0;2.3;2.1;8.2
+67;GBR;Reino Unido;Europe;Northern Europe;Ingreso alto;2021;67326569.0;67.3;0.4;12.9
+68;GEO;Georgia;Asia;Western Asia;Ingreso mediano alto;2021;3708610.0;3.7;-0.4;12.8
+69;GHA;Ghana;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;32833031.0;32.8;2.0;7.1
+70;GIB;Gibraltar;Europe;Southern Europe;Ingreso alto;2021;32669.0;0.0;-0.1;0.0
+71;GIN;Guinea;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;13531906.0;13.5;2.5;2.6
+72;GMB;Gambia;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;2639916.0;2.6;2.6;3.5
+73;GNB;Guinea-Bissau;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;2060721.0;2.1;2.2;3.0
+74;GNQ;Guinea Ecuatorial;Africa;Sub-Saharan Africa;Ingreso mediano alto;2021;1634466.0;1.6;2.4;5.5
+75;GRC;Grecia;Europe;Southern Europe;Ingreso alto;2021;10641221.0;10.6;-0.5;10.8
+76;GRD;Granada;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;124610.0;0.1;0.8;8.7
+77;GRL;Groenlandia;Americas;Northern America;Ingreso alto;2021;56653.0;0.1;0.5;0.0
+78;GTM;Guatemala;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;17109746.0;17.1;1.5;6.5
+79;GUM;Guam;Oceania;Micronesia;Ingreso alto;2021;170534.0;0.2;0.8;0.0
+80;GUY;Guyana;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;804567.0;0.8;0.9;8.4
+81;HKG;Hong Kong, Región Administrativa Especial;Asia;Eastern Asia;Ingreso alto;2021;7413100.0;7.4;-0.9;12.0
+82;HND;Honduras;Americas;Latin America and the Caribbean;Países de ingreso mediano bajo;2021;10278345.0;10.3;1.5;6.5
+83;HRV;Croacia;Europe;Southern Europe;Ingreso alto;2021;3899000.0;3.9;-3.7;11.3
+84;HTI;Haití;Americas;Latin America and the Caribbean;Países de ingreso mediano bajo;2021;11447569.0;11.4;1.2;5.3
+85;HUN;Hungría;Europe;Eastern Europe;Ingreso alto;2021;9709891.0;9.7;-0.4;11.9
+86;IDN;Indonesia;Asia;South-eastern Asia;Países de ingreso mediano bajo;2021;273753191.0;273.8;0.7;8.0
+87;IMN;Isla de Man;Europe;Northern Europe;Ingreso alto;2021;84263.0;0.1;0.3;0.0
+88;IND;India;Asia;Southern Asia;Países de ingreso mediano bajo;2021;1407563842.0;1407.6;0.8;6.4
+89;IRL;Irlanda;Europe;Northern Europe;Ingreso alto;2021;5033165.0;5.0;1.0;12.5
+90;IRN;Irán, República Islámica del;Asia;Southern Asia;Países de ingreso mediano bajo;2021;87923432.0;87.9;0.7;9.8
+91;IRQ;Iraq;Asia;Western Asia;Ingreso mediano alto;2021;43533592.0;43.5;2.3;6.8
+92;ISL;Islandia;Europe;Northern Europe;Ingreso alto;2021;372520.0;0.4;1.7;12.4
+93;ISR;Israel;Asia;Western Asia;Ingreso alto;2021;9364000.0;9.4;1.6;13.0
+94;ITA;Italia;Europe;Southern Europe;Ingreso alto;2021;59109668.0;59.1;-0.6;10.2
+95;JAM;Jamaica;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;2827695.0;2.8;0.3;9.8
+96;JOR;Jordania;Asia;Western Asia;Ingreso mediano alto;2021;11148278.0;11.1;2.0;10.4
+97;JPN;Japón;Asia;Eastern Asia;Ingreso alto;2021;125681593.0;125.7;-0.5;12.8
+98;KAZ;Kazajstán;Asia;Central Asia;Ingreso mediano alto;2021;19000988.0;19.0;1.3;11.8
+99;KEN;Kenya;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;53005614.0;53.0;2.0;6.5
+100;KGZ;Kirguistán;Asia;Central Asia;Países de ingreso mediano bajo;2021;6691800.0;6.7;1.7;10.9
+101;KHM;Camboya;Asia;South-eastern Asia;Países de ingreso mediano bajo;2021;16589023.0;16.6;1.2;4.8
+102;KIR;Kiribati;Oceania;Micronesia;Países de ingreso mediano bajo;2021;128874.0;0.1;1.9;7.9
+103;KNA;Saint Kitts y Nevis;Americas;Latin America and the Caribbean;Ingreso alto;2021;47606.0;0.0;-0.1;8.4
+104;KOR;Corea, República de;Asia;Eastern Asia;Ingreso alto;2021;51744876.0;51.7;-0.2;12.1
+105;KWT;Kuwait;Asia;Western Asia;Ingreso alto;2021;4250114.0;4.3;-2.5;7.3
+106;LAO;República Democrática Popular Lao;Asia;South-eastern Asia;Países de ingreso mediano bajo;2021;7425057.0;7.4;1.4;5.2
+107;LBN;Líbano;Asia;Western Asia;Países de ingreso mediano bajo;2021;5592631.0;5.6;-1.2;8.7
+108;LBR;Liberia;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;5193416.0;5.2;2.1;4.7
+109;LBY;Libia;Africa;Northern Africa;Ingreso mediano alto;2021;6735277.0;6.7;1.2;7.3
+110;LCA;Santa Lucía;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;179651.0;0.2;0.2;8.9
+111;LIE;Liechtenstein;Europe;Western Europe;Ingreso alto;2021;39039.0;0.0;0.7;12.5
+112;LKA;Sri Lanka;Asia;Southern Asia;Países de ingreso mediano bajo;2021;22156000.0;22.2;1.1;10.9
+113;LSO;Lesotho;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;2281454.0;2.3;1.2;6.3
+114;LTU;Lituania;Europe;Northern Europe;Ingreso alto;2021;2800839.0;2.8;0.2;13.0
+115;LUX;Luxemburgo;Europe;Western Europe;Ingreso alto;2021;640064.0;0.6;1.5;12.1
+116;LVA;Letonia;Europe;Northern Europe;Ingreso alto;2021;1884490.0;1.9;-0.8;12.8
+117;MAC;Región Administrativa Especial de Macao, China;Asia;Eastern Asia;Ingreso alto;2021;686607.0;0.7;1.5;5.46
+118;MAF;Isla de San Martín (parte francesa);Americas;Latin America and the Caribbean;Ingreso alto;2021;31948.0;0.0;-1.9;0.0
+119;MAR;Marruecos;Africa;Northern Africa;Países de ingreso mediano bajo;2021;37076584.0;37.1;1.1;5.5
+120;MCO;Mónaco;Europe;Western Europe;Ingreso alto;2021;36686.0;0.0;-0.6;0.0
+121;MDA;República de Moldova;Europe;Eastern Europe;Ingreso mediano alto;2021;2615199.0;2.6;-0.8;11.6
+122;MDG;Madagascar;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;28915653.0;28.9;2.4;6.1
+123;MDV;Maldivas;Asia;Southern Asia;Ingreso mediano alto;2021;521457.0;0.5;1.4;6.3
+124;MEX;México;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;126705138.0;126.7;0.6;8.6
+125;MHL;Islas Marshall;Oceania;Micronesia;Ingreso mediano alto;2021;42050.0;0.0;-3.1;10.9
+126;MKD;Macedonia del Norte;Europe;Southern Europe;Ingreso mediano alto;2021;2065092.0;2.1;-0.4;9.6
+127;MLI;Malí;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;21904983.0;21.9;3.2;2.3
+128;MLT;Malta;Europe;Southern Europe;Ingreso alto;2021;518536.0;0.5;0.6;11.3
+129;MMR;Myanmar;Asia;South-eastern Asia;Países de ingreso mediano bajo;2021;53798084.0;53.8;0.7;4.9
+130;MNE;Montenegro;Europe;Southern Europe;Ingreso mediano alto;2021;619211.0;0.6;-0.3;11.3
+131;MNG;Mongolia;Asia;Eastern Asia;Países de ingreso mediano bajo;2021;3347782.0;3.3;1.6;10.1
+132;MNP;Mariana;Oceania;Micronesia;Ingreso alto;2021;49481.0;0.0;-0.2;0.0
+133;MOZ;Mozambique;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;32077072.0;32.1;2.9;3.5
+134;MRT;Mauritania;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;4614974.0;4.6;2.6;4.5
+135;MUS;Mauricio;Africa;Sub-Saharan Africa;Ingreso mediano alto;2021;1266060.0;1.3;0.0;9.3
+136;MWI;Malawi;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;19889742.0;19.9;2.6;4.5
+137;MYS;Malasia;Asia;South-eastern Asia;Ingreso mediano alto;2021;33573874.0;33.6;1.1;10.2
+138;NAM;Namibia;Africa;Sub-Saharan Africa;Ingreso mediano alto;2021;2530151.0;2.5;1.6;6.8
+139;NCL;Nueva Caledonia;Oceania;Melanesia;Ingreso alto;2021;271030.0;0.3;-0.0;0.0
+140;NER;Níger;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;25252722.0;25.3;3.8;2.0
+141;NGA;Nigeria;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;213401323.0;213.4;2.4;6.2
+142;NIC;Nicaragua;Americas;Latin America and the Caribbean;Países de ingreso mediano bajo;2021;6850540.0;6.9;1.4;6.7
+143;NLD;Países Bajos;Europe;Western Europe;Ingreso alto;2021;17533044.0;17.5;0.5;12.2
+144;NOR;Noruega;Europe;Northern Europe;Ingreso alto;2021;5408320.0;5.4;0.5;12.6
+145;NPL;Nepal;Asia;Southern Asia;Países de ingreso mediano bajo;2021;30034989.0;30.0;2.3;4.9
+146;NRU;Nauru;Oceania;Micronesia;Ingreso alto;2021;12511.0;0.0;1.6;0.0
+147;NZL;Nueva Zelandia;Oceania;Australia and New Zealand;Ingreso alto;2021;5122600.0;5.1;0.6;12.5
+148;OMN;Omán;Asia;Western Asia;Ingreso alto;2021;4520471.0;4.5;-0.5;9.5
+149;PAK;Pakistán;Asia;Southern Asia;Países de ingreso mediano bajo;2021;231402117.0;231.4;1.9;5.2
+150;PAN;Panamá;Americas;Latin America and the Caribbean;Ingreso alto;2021;4351267.0;4.4;1.3;10.2
+151;PER;Perú;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;33715471.0;33.7;1.2;9.2
+152;PHL;Filipinas;Asia;South-eastern Asia;Países de ingreso mediano bajo;2021;113880328.0;113.9;1.5;9.3
+153;PLW;Palau;Oceania;Micronesia;Ingreso mediano alto;2021;18024.0;0.0;0.3;12.3
+154;PNG;Papua Nueva Guinea;Oceania;Melanesia;Países de ingreso mediano bajo;2021;9949437.0;9.9;2.0;4.6
+155;POL;Polonia;Europe;Eastern Europe;Ingreso alto;2021;37747124.0;37.7;-0.4;12.3
+156;PRI;Puerto Rico;Americas;Latin America and the Caribbean;Ingreso alto;2021;3263584.0;3.3;-0.5;0.0
+157;PRK;Corea, República Popular Democrática de;Asia;Eastern Asia;Países de ingreso bajo;2021;25971909.0;26.0;0.4;0.0
+158;PRT;Portugal;Europe;Southern Europe;Ingreso alto;2021;10325147.0;10.3;0.3;9.2
+159;PRY;Paraguay;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;6703799.0;6.7;1.3;8.4
+160;PSE;Ribera Occidental y Gaza;Asia;Western Asia;Países de ingreso mediano bajo;2021;4922749.0;4.9;2.5;9.1
+161;PYF;Polinesia Francesa;Oceania;Polynesia;Ingreso alto;2021;304032.0;0.3;0.7;0.0
+162;QAT;Qatar;Asia;Western Asia;Ingreso alto;2021;2688235.0;2.7;-2.6;9.8
+163;ROU;Rumania;Europe;Eastern Europe;Ingreso alto;2021;19119880.0;19.1;-0.8;11.0
+164;RUS;Federación de Rusia;Europe;Eastern Europe;Ingreso mediano alto;2021;143449286.0;143.4;-0.4;12.0
+165;RWA;Rwanda;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;13461888.0;13.5;2.4;4.1
+166;SAU;Arabia Saudita;Asia;Western Asia;Ingreso alto;2021;35950396.0;36.0;-0.1;9.5
+167;SDN;Sudán;Africa;Northern Africa;Países de ingreso bajo;2021;45657202.0;45.7;2.7;3.7
+168;SEN;Senegal;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;16876720.0;16.9;2.7;3.0
+169;SGP;Singapur;Asia;South-eastern Asia;Ingreso alto;2021;5453566.0;5.5;-4.1;11.5
+170;SLB;Islas Salomón;Oceania;Melanesia;Países de ingreso mediano bajo;2021;707851.0;0.7;2.4;5.5
+171;SLE;Sierra Leona;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;8420641.0;8.4;2.3;3.5
+172;SLV;El Salvador;Americas;Latin America and the Caribbean;Países de ingreso mediano bajo;2021;6314167.0;6.3;0.3;6.9
+173;SMR;San Marino;Europe;Southern Europe;Ingreso alto;2021;33745.0;0.0;-0.8;0.0
+174;SOM;Somalia;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;17065581.0;17.1;3.2;2.1
+175;SRB;Serbia;Europe;Southern Europe;Ingreso mediano alto;2021;6834326.0;6.8;-0.9;11.1
+176;SSD;Sudán del Sur;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;10748272.0;10.7;1.3;4.8
+177;STP;Santo Tomé y Príncipe;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;223107.0;0.2;2.0;6.3
+178;SUR;Suriname;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;612985.0;0.6;1.0;8.5
+179;SVK;República Eslovaca;Europe;Eastern Europe;Ingreso alto;2021;5447247.0;5.4;-0.2;12.5
+180;SVN;Eslovenia;Europe;Southern Europe;Ingreso alto;2021;2108079.0;2.1;0.3;12.2
+181;SWE;Suecia;Europe;Northern Europe;Ingreso alto;2021;10415811.0;10.4;0.6;12.4
+182;SWZ;Eswatini;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;1192271.0;1.2;1.0;6.5
+183;SXM;Sint Maarten (Dutch part);Americas;Latin America and the Caribbean;Ingreso alto;2021;42846.0;0.0;1.3;0.0
+184;SYC;Seychelles;Africa;Sub-Saharan Africa;Ingreso alto;2021;99258.0;0.1;0.8;9.5
+185;SYR;República Árabe Siria;Asia;Western Asia;Países de ingreso bajo;2021;21324367.0;21.3;2.7;5.1
+186;TCA;Islas Turcas y Caicos;Americas;Latin America and the Caribbean;Ingreso alto;2021;45114.0;0.0;1.9;0.0
+187;TCD;Chad;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;17179740.0;17.2;3.2;2.3
+188;TGO;Togo;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;8644829.0;8.6;2.4;4.8
+189;THA;Tailandia;Asia;South-eastern Asia;Ingreso mediano alto;2021;71601103.0;71.6;0.2;7.6
+190;TJK;Tayikistán;Asia;Central Asia;Países de ingreso mediano bajo;2021;9750064.0;9.8;2.2;10.4
+191;TKM;Turkmenistán;Asia;Central Asia;Ingreso mediano alto;2021;6341855.0;6.3;1.5;9.8
+192;TLS;Timor-Leste;Asia;South-eastern Asia;Países de ingreso mediano bajo;2021;1320942.0;1.3;1.6;4.5
+193;TON;Tonga;Oceania;Polynesia;Ingreso mediano alto;2021;106017.0;0.1;0.7;11.2
+194;TTO;Trinidad y Tobago;Americas;Latin America and the Caribbean;Ingreso alto;2021;1525663.0;1.5;0.5;10.9
+195;TUN;Túnez;Africa;Northern Africa;Países de ingreso mediano bajo;2021;12262946.0;12.3;0.8;7.2
+196;TUR;Turquía;Asia;Western Asia;Ingreso mediano alto;2021;84775404.0;84.8;0.8;8.0
+197;TUV;Tuvalu;Oceania;Polynesia;Ingreso mediano alto;2021;11204.0;0.0;1.2;0.0
+198;TZA;Tanzanía;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;63588334.0;63.6;3.1;5.8
+199;UGA;Uganda;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;45853778.0;45.9;3.3;6.1
+200;UKR;Ucrania;Europe;Eastern Europe;Países de ingreso mediano bajo;2021;43792855.0;43.8;-0.8;11.3
+201;URY;Uruguay;Americas;Latin America and the Caribbean;Ingreso alto;2021;3426260.0;3.4;-0.1;8.7
+202;USA;Estados Unidos;Americas;Northern America;Ingreso alto;2021;331893745.0;331.9;0.1;13.4
+203;UZB;Uzbekistán;Asia;Central Asia;Países de ingreso mediano bajo;2021;34915100.0;34.9;2.0;11.5
+204;VCT;San Vicente y las Granadinas;Americas;Latin America and the Caribbean;Ingreso mediano alto;2021;104332.0;0.1;-0.3;8.6
+205;VEN;Venezuela;Americas;Latin America and the Caribbean;No clasificado;2021;28199867.0;28.2;-1.0;10.3
+206;VGB;Islas Vírgenes Británicas;Americas;Latin America and the Caribbean;Ingreso alto;2021;31122.0;0.0;0.7;0.0
+207;VIR;Islas Vírgenes (EE.UU.);Americas;Latin America and the Caribbean;Ingreso alto;2021;105870.0;0.1;-0.4;0.0
+208;VNM;Viet Nam;Asia;South-eastern Asia;Países de ingreso mediano bajo;2021;97468029.0;97.5;0.8;8.2
+209;VUT;Vanuatu;Oceania;Melanesia;Países de ingreso mediano bajo;2021;319137.0;0.3;2.4;6.8
+210;WSM;Samoa;Oceania;Polynesia;Países de ingreso mediano bajo;2021;218764.0;0.2;1.8;10.3
+211;YEM;Yemen, Rep. del;Asia;Western Asia;Países de ingreso bajo;2021;32981641.0;33.0;2.2;3.0
+212;ZAF;Sudáfrica;Africa;Sub-Saharan Africa;Ingreso mediano alto;2021;59392255.0;59.4;1.0;10.1
+213;ZMB;Zambia;Africa;Sub-Saharan Africa;Países de ingreso bajo;2021;19473125.0;19.5;2.9;7.0
+214;ZWE;Zimbabwe;Africa;Sub-Saharan Africa;Países de ingreso mediano bajo;2021;15993524.0;16.0;2.1;8.2
